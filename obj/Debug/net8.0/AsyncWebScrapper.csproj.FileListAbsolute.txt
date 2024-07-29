@@ -1,0 +1,15 @@
+C:\c#proj\AsyncWebScrapper\bin\Debug\net8.0\AsyncWebScrapper.exe
+C:\c#proj\AsyncWebScrapper\bin\Debug\net8.0\AsyncWebScrapper.deps.json
+C:\c#proj\AsyncWebScrapper\bin\Debug\net8.0\AsyncWebScrapper.runtimeconfig.json
+C:\c#proj\AsyncWebScrapper\bin\Debug\net8.0\AsyncWebScrapper.dll
+C:\c#proj\AsyncWebScrapper\bin\Debug\net8.0\AsyncWebScrapper.pdb
+C:\c#proj\AsyncWebScrapper\obj\Debug\net8.0\AsyncWebScrapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#proj\AsyncWebScrapper\obj\Debug\net8.0\AsyncWebScrapper.AssemblyInfoInputs.cache
+C:\c#proj\AsyncWebScrapper\obj\Debug\net8.0\AsyncWebScrapper.AssemblyInfo.cs
+C:\c#proj\AsyncWebScrapper\obj\Debug\net8.0\AsyncWebScrapper.csproj.CoreCompileInputs.cache
+C:\c#proj\AsyncWebScrapper\obj\Debug\net8.0\AsyncWebScrapper.sourcelink.json
+C:\c#proj\AsyncWebScrapper\obj\Debug\net8.0\AsyncWebScrapper.dll
+C:\c#proj\AsyncWebScrapper\obj\Debug\net8.0\refint\AsyncWebScrapper.dll
+C:\c#proj\AsyncWebScrapper\obj\Debug\net8.0\AsyncWebScrapper.pdb
+C:\c#proj\AsyncWebScrapper\obj\Debug\net8.0\AsyncWebScrapper.genruntimeconfig.cache
+C:\c#proj\AsyncWebScrapper\obj\Debug\net8.0\ref\AsyncWebScrapper.dll
